@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/the-roshanray/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/the-roshanray/Leetcode/tree/master/0031-next-permutation) |
+| [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/the-roshanray/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/the-roshanray/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/the-roshanray/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -21,5 +23,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/the-roshanray/Leetcode/tree/master/3731-find-missing-elements) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
