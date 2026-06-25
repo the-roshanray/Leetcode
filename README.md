@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/the-roshanray/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/the-roshanray/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/the-roshanray/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/the-roshanray/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/the-roshanray/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/the-roshanray/Leetcode/tree/master/0088-merge-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/the-roshanray/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/the-roshanray/Leetcode/tree/master/0048-rotate-image) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/the-roshanray/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
