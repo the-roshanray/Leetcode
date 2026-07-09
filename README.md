@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/the-roshanray/Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/the-roshanray/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/the-roshanray/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/the-roshanray/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/the-roshanray/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/the-roshanray/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
@@ -97,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/the-roshanray/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/the-roshanray/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/the-roshanray/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/the-roshanray/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 <!---LeetCode Topics End-->
