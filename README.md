@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-roshanray/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1834-single-threaded-cpu](https://github.com/the-roshanray/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/the-roshanray/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/the-roshanray/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3731-find-missing-elements](https://github.com/the-roshanray/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/the-roshanray/Leetcode/tree/master/0048-rotate-image) |
+| [2643-row-with-maximum-ones](https://github.com/the-roshanray/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
