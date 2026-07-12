@@ -1,59 +1,68 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
-
 class Solution {
 public:
-    ListNode* merge(ListNode* head1, ListNode* head2) {
-        ListNode dummy(-1);
-        ListNode* tail = &dummy;
+    ListNode* sortList(ListNode* head) {
+        if (!head || !head->next) return head;
 
-        while (head1 && head2) {
-            if (head1->val <= head2->val) {
-                tail->next = head1;
-                head1 = head1->next;
-            } else {
-                tail->next = head2;
-                head2 = head2->next;
-            }
-            tail = tail->next;
+        int n = 0;
+        ListNode* curr = head;
+
+        while (curr) {
+            n++;
+            curr = curr->next;
         }
 
-        if (head1)
-            tail->next = head1;
-        else
-            tail->next = head2;
+        ListNode dummy(0);
+        dummy.next = head;
+
+        for (int size = 1; size < n; size *= 2) {
+            ListNode* prev = &dummy;
+            curr = dummy.next;
+
+            while (curr) {
+                ListNode* left = curr;
+                ListNode* right = split(left, size);
+                curr = split(right, size);
+
+                prev->next = merge(left, right);
+
+                while (prev->next)
+                    prev = prev->next;
+            }
+        }
 
         return dummy.next;
     }
 
-    ListNode* sortList(ListNode* head) {
-       
-        if (head == nullptr || head->next == nullptr)
-            return head;
+private:
+    ListNode* split(ListNode* head, int size) {
+        while (--size && head)
+            head = head->next;
 
-       
-        ListNode* slow = head;
-        ListNode* fast = head->next;
+        if (!head) return nullptr;
 
-        while (fast != nullptr && fast->next != nullptr) {
-            slow = slow->next;
-            fast = fast->next->next;
+        ListNode* second = head->next;
+        head->next = nullptr;
+
+        return second;
+    }
+
+    ListNode* merge(ListNode* l1, ListNode* l2) {
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
+
+        while (l1 && l2) {
+            if (l1->val <= l2->val) {
+                tail->next = l1;
+                l1 = l1->next;
+            } else {
+                tail->next = l2;
+                l2 = l2->next;
+            }
+            tail = tail->next;
         }
 
-        ListNode* mid = slow->next;
-        slow->next = nullptr;
+        tail->next = l1 ? l1 : l2;
 
-        ListNode* left = sortList(head);
-        ListNode* right = sortList(mid);
-
-        return merge(left, right);
+        return dummy.next;
     }
 };
