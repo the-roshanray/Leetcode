@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-roshanray/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/the-roshanray/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/the-roshanray/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/the-roshanray/Leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/the-roshanray/Leetcode/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/the-roshanray/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/the-roshanray/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/the-roshanray/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/the-roshanray/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/the-roshanray/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/the-roshanray/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/the-roshanray/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/the-roshanray/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -133,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/the-roshanray/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/the-roshanray/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/the-roshanray/Leetcode/tree/master/0112-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/the-roshanray/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/the-roshanray/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
