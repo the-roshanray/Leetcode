@@ -117,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/the-roshanray/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/the-roshanray/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/the-roshanray/Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/the-roshanray/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/the-roshanray/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/the-roshanray/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/the-roshanray/Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/the-roshanray/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,12 +138,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/the-roshanray/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/the-roshanray/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/the-roshanray/Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/the-roshanray/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/the-roshanray/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/the-roshanray/Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/the-roshanray/Leetcode/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/the-roshanray/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
