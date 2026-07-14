@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/the-roshanray/Leetcode/tree/master/0704-binary-search) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/the-roshanray/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-roshanray/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1834-single-threaded-cpu](https://github.com/the-roshanray/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/the-roshanray/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/the-roshanray/Leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/the-roshanray/Leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/the-roshanray/Leetcode/tree/master/0200-number-of-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2643-row-with-maximum-ones](https://github.com/the-roshanray/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/the-roshanray/Leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/the-roshanray/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/the-roshanray/Leetcode/tree/master/0200-number-of-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/the-roshanray/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/the-roshanray/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/the-roshanray/Leetcode/tree/master/0200-number-of-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -160,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/the-roshanray/Leetcode/tree/master/0200-number-of-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
