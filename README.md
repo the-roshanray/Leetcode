@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/the-roshanray/Leetcode/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/the-roshanray/Leetcode/tree/master/0704-binary-search) |
+| [0994-rotting-oranges](https://github.com/the-roshanray/Leetcode/tree/master/0994-rotting-oranges) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/the-roshanray/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-roshanray/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/the-roshanray/Leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/the-roshanray/Leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/the-roshanray/Leetcode/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2643-row-with-maximum-ones](https://github.com/the-roshanray/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/the-roshanray/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/the-roshanray/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/the-roshanray/Leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/the-roshanray/Leetcode/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
