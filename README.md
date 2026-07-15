@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/the-roshanray/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/the-roshanray/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/the-roshanray/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/the-roshanray/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/the-roshanray/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-roshanray/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/the-roshanray/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/the-roshanray/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/the-roshanray/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/the-roshanray/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2643-row-with-maximum-ones](https://github.com/the-roshanray/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/the-roshanray/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/the-roshanray/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/the-roshanray/Leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/the-roshanray/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/the-roshanray/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/the-roshanray/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/the-roshanray/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/the-roshanray/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/the-roshanray/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/the-roshanray/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/the-roshanray/Leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/the-roshanray/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
