@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-roshanray/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1834-single-threaded-cpu](https://github.com/the-roshanray/Leetcode/tree/master/1834-single-threaded-cpu) |
+| [1901-find-a-peak-element-ii](https://github.com/the-roshanray/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/the-roshanray/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/the-roshanray/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3731-find-missing-elements](https://github.com/the-roshanray/Leetcode/tree/master/3731-find-missing-elements) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/the-roshanray/Leetcode/tree/master/0704-binary-search) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/the-roshanray/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-roshanray/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1901-find-a-peak-element-ii](https://github.com/the-roshanray/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/the-roshanray/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/the-roshanray/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1901-find-a-peak-element-ii](https://github.com/the-roshanray/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/the-roshanray/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
