@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/the-roshanray/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/the-roshanray/Leetcode/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/the-roshanray/Leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/the-roshanray/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/the-roshanray/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/the-roshanray/Leetcode/tree/master/0994-rotting-oranges) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/the-roshanray/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/the-roshanray/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/the-roshanray/Leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/the-roshanray/Leetcode/tree/master/0704-binary-search) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/the-roshanray/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-roshanray/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/the-roshanray/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/the-roshanray/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/the-roshanray/Leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/the-roshanray/Leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/the-roshanray/Leetcode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/the-roshanray/Leetcode/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -217,4 +221,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/the-roshanray/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/the-roshanray/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/the-roshanray/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/the-roshanray/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
