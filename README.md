@@ -242,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/the-roshanray/Leetcode/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/the-roshanray/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
