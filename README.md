@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/the-roshanray/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/the-roshanray/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/the-roshanray/Leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/the-roshanray/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/the-roshanray/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/the-roshanray/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/the-roshanray/Leetcode/tree/master/0229-majority-element-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/the-roshanray/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
