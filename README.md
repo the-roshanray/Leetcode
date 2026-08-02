@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/the-roshanray/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/the-roshanray/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/the-roshanray/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-roshanray/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/the-roshanray/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/the-roshanray/Leetcode/tree/master/0035-search-insert-position) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/the-roshanray/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-roshanray/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/the-roshanray/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/the-roshanray/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/the-roshanray/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/the-roshanray/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/the-roshanray/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/the-roshanray/Leetcode/tree/master/0169-majority-element) |
