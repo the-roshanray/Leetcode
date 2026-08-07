@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-roshanray/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/the-roshanray/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/the-roshanray/Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/the-roshanray/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/the-roshanray/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/the-roshanray/Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/the-roshanray/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/the-roshanray/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/the-roshanray/Leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/the-roshanray/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/the-roshanray/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/the-roshanray/Leetcode/tree/master/0169-majority-element) |
