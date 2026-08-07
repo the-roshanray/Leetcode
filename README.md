@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/the-roshanray/Leetcode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/the-roshanray/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/the-roshanray/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/the-roshanray/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/the-roshanray/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/the-roshanray/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/the-roshanray/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/the-roshanray/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
