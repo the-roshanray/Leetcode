@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/the-roshanray/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/the-roshanray/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/the-roshanray/Leetcode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/the-roshanray/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/the-roshanray/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/the-roshanray/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/the-roshanray/Leetcode/tree/master/0200-number-of-islands) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/the-roshanray/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/the-roshanray/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/the-roshanray/Leetcode/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
