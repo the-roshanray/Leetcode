@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/the-roshanray/Leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/the-roshanray/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/the-roshanray/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/the-roshanray/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/the-roshanray/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/the-roshanray/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/the-roshanray/Leetcode/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/the-roshanray/Leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
