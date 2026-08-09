@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/the-roshanray/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/the-roshanray/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/the-roshanray/Leetcode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/the-roshanray/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/the-roshanray/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/the-roshanray/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/the-roshanray/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/the-roshanray/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/the-roshanray/Leetcode/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/the-roshanray/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/the-roshanray/Leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/the-roshanray/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1796-second-largest-digit-in-a-string](https://github.com/the-roshanray/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
