@@ -1,51 +1,5 @@
 class Solution {
 public:
-    ListNode* sortList(ListNode* head) {
-        if (!head || !head->next) return head;
-
-        int n = 0;
-        ListNode* curr = head;
-
-        while (curr) {
-            n++;
-            curr = curr->next;
-        }
-
-        ListNode dummy(0);
-        dummy.next = head;
-
-        for (int size = 1; size < n; size *= 2) {
-            ListNode* prev = &dummy;
-            curr = dummy.next;
-
-            while (curr) {
-                ListNode* left = curr;
-                ListNode* right = split(left, size);
-                curr = split(right, size);
-
-                prev->next = merge(left, right);
-
-                while (prev->next)
-                    prev = prev->next;
-            }
-        }
-
-        return dummy.next;
-    }
-
-private:
-    ListNode* split(ListNode* head, int size) {
-        while (--size && head)
-            head = head->next;
-
-        if (!head) return nullptr;
-
-        ListNode* second = head->next;
-        head->next = nullptr;
-
-        return second;
-    }
-
     ListNode* merge(ListNode* l1, ListNode* l2) {
         ListNode dummy(0);
         ListNode* tail = &dummy;
@@ -62,7 +16,27 @@ private:
         }
 
         tail->next = l1 ? l1 : l2;
-
         return dummy.next;
+    }
+
+    ListNode* sortList(ListNode* head) {
+        if (!head || !head->next)
+            return head;
+
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        ListNode* mid = slow->next;
+        slow->next = nullptr;
+
+        ListNode* left = sortList(head);
+        ListNode* right = sortList(mid);
+
+        return merge(left, right);
     }
 };
