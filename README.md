@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/the-roshanray/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/the-roshanray/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/the-roshanray/Leetcode/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/the-roshanray/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/the-roshanray/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/the-roshanray/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/the-roshanray/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/the-roshanray/Leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/the-roshanray/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/the-roshanray/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/the-roshanray/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/the-roshanray/Leetcode/tree/master/0733-flood-fill) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/the-roshanray/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/the-roshanray/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/the-roshanray/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/the-roshanray/Leetcode/tree/master/0110-balanced-binary-tree) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/the-roshanray/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/the-roshanray/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/the-roshanray/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/the-roshanray/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/the-roshanray/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/the-roshanray/Leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/the-roshanray/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -343,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/the-roshanray/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/the-roshanray/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
