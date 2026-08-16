@@ -2,7 +2,7 @@ class Solution {
 private:
     Node* dfs(Node* head) {
         Node* curr = head;
-        Node* last = nullptr;
+        Node* last = head;
 
         while (curr) {
             Node* next = curr->next;
@@ -21,12 +21,12 @@ private:
                 }
 
                 last = childTail;
-                curr = childTail;
+
             } else {
                 last = curr;
             }
 
-            curr = curr->next;
+            curr = next;
         }
 
         return last;
@@ -34,7 +34,8 @@ private:
 
 public:
     Node* flatten(Node* head) {
-        if (!head) return head;
+        if (!head)
+            return head;
         dfs(head);
         return head;
     }
