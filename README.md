@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/the-roshanray/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/the-roshanray/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/the-roshanray/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/the-roshanray/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/the-roshanray/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/the-roshanray/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/the-roshanray/Leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/the-roshanray/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/the-roshanray/Leetcode/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/the-roshanray/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/the-roshanray/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/the-roshanray/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
@@ -355,4 +357,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/the-roshanray/Leetcode/tree/master/0175-combine-two-tables) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/the-roshanray/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/the-roshanray/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/the-roshanray/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/the-roshanray/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/the-roshanray/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
