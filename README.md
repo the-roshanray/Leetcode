@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/the-roshanray/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/the-roshanray/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/the-roshanray/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/the-roshanray/Leetcode/tree/master/0118-pascals-triangle) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/the-roshanray/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/the-roshanray/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/the-roshanray/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/the-roshanray/Leetcode/tree/master/0058-length-of-last-word) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/the-roshanray/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/the-roshanray/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/the-roshanray/Leetcode/tree/master/0231-power-of-two) |
 ## Quicksort
