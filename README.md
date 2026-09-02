@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/the-roshanray/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/the-roshanray/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/the-roshanray/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/the-roshanray/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/the-roshanray/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1901-find-a-peak-element-ii](https://github.com/the-roshanray/Leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/the-roshanray/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/the-roshanray/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/the-roshanray/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1584-min-cost-to-connect-all-points](https://github.com/the-roshanray/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/the-roshanray/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/the-roshanray/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/the-roshanray/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/the-roshanray/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1584-min-cost-to-connect-all-points](https://github.com/the-roshanray/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -426,4 +429,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/the-roshanray/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/the-roshanray/Leetcode/tree/master/0127-word-ladder) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/the-roshanray/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/the-roshanray/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/the-roshanray/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/the-roshanray/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
