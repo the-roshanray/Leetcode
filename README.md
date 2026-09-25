@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/the-roshanray/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/the-roshanray/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/the-roshanray/Leetcode/tree/master/0268-missing-number) |
+| [0593-valid-square](https://github.com/the-roshanray/Leetcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/the-roshanray/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/the-roshanray/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
@@ -449,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/the-roshanray/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/the-roshanray/Leetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
