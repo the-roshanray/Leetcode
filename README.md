@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/the-roshanray/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/the-roshanray/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/the-roshanray/Leetcode/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/the-roshanray/Leetcode/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/the-roshanray/Leetcode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/the-roshanray/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/the-roshanray/Leetcode/tree/master/0127-word-ladder) |
