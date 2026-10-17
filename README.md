@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/the-roshanray/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/the-roshanray/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/the-roshanray/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-roshanray/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Union-Find
 |  |
 | ------- |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/the-roshanray/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/the-roshanray/Leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/the-roshanray/Leetcode/tree/master/0541-reverse-string-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-roshanray/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/the-roshanray/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/the-roshanray/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search Tree
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/the-roshanray/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/the-roshanray/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
